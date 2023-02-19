@@ -39,6 +39,6 @@ sh /whereyourprojectlocated/logic/start.sh  Don't forget select some text before
 ```
 5) Set hot key. Settings -> Keyboard -> Key combination -> additional key combinations. Then set Name for your combination, as run command use from 4 step and set hot key. I use alt+T  (alt + translate for good memorizing) 
 
-<img src="https://raw.githubusercontent.com/Killersssurprise/NotifyTranslator/main/public/screenshot.png" alt="text" width="320" height="230"> 
+<img src="https://raw.githubusercontent.com/Killersssurprise/NotifyTranslator/main/public/screenshot.png" alt="text" width="640" height="460"> 
 
 That's all ^_^
